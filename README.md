@@ -1,4 +1,4 @@
-# CV based monitoring system for child abuse detection
+# Real time monitoring system for child abuse detection
 
 
 
